@@ -59,8 +59,8 @@ const hobbyData: HobbyProps[] = [
         <line x1="12" y1="22" x2="12" y2="12" />
       </svg>
     ),
-    website: "https://jfk-creative-3d-lab.lovable.app/",
-    enableWebsite: true,
+    website: "#",
+    enableWebsite: false,
   },
   {
     title: "Open Source Contributing",
@@ -94,8 +94,8 @@ const Hobbies = () => {
         <h2 className="section-title">Hobbies & Side Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {hobbyData.map((hobby, index) => (
-            <Card 
-              key={index} 
+            <Card
+              key={index}
               className="hover:shadow-lg transition-all duration-300 group"
             >
               <CardContent className="p-6">
