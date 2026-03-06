@@ -6,13 +6,13 @@ import { PortfolioConfig } from './types';
 
 export const portfolioConfig: PortfolioConfig = {
   personalInfo: {
-    name: "Dr. Jiztom Kavalakkatt Francis",
-    shortName: "Dr. Jiztom",
-    title: "Data Engineer | Data Quality Researcher | Prototyping Engineer",
-    description: "Pioneering AI innovation through machine vision and deep learning",
-    email: "jiztom@iastate.edu",
-    linkedin: "https://linkedin.com/in/jiztom",
-    github: "https://github.com/jiztom",
+    name: "Kishor Kumar Sridhar",
+    shortName: "Kishor",
+    title: "Data Scientist | Data Analyst | Machine Learning",
+    description: "Data Science",
+    email: "kishorkumarsridhar@gmail.com",
+    linkedin: "https://www.linkedin.com/in/kishorkumars/",
+    github: "https://github.com/ksridhargithub",
     resumeUrl: "/resume.pdf",
     profileImage: "jiztom.jpeg",
   },
