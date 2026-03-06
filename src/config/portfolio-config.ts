@@ -10,7 +10,7 @@ export const portfolioConfig: PortfolioConfig = {
     description: "Data Science",
     email: "kishorkumarsridhar@gmail.com",
     linkedin: "https://www.linkedin.com/in/kishorkumars/",
-    github: "https://github.com/ksridhargithub",
+    github: "https://github.com/kishorkumarsridhar",
     resumeUrl: "/resume.pdf",
     profileImage: "kishor.png",
   },
