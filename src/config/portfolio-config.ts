@@ -17,7 +17,7 @@ export const portfolioConfig: PortfolioConfig = {
 
   aboutInfo: {
     paragraphs: [
-      "Data Scientist with 6+ years of industry experience in data science, data analytics, product management, business intelligence, database management and stakeholder engagement. Proven expertise in implementing Machine Learning frameworks using Dataiku Data Science Studio, statistical analysis, handling Big Data, and presenting compelling dashboards for evidence-based decision-making."
+      "Data Scientist with 6+ years of industry experience in data science, data analytics, product management, business intelligence, database management and stakeholder engagement. Proven expertise in implementing Machine Learning frameworks using Dataiku Data Science Studio, statistical analysis, handling Big Data, and presenting compelling dashboards for evidence-based decision-making. I have an H1B Visa in the USA and I am looking for a full-time Data Scientist role in the USA."
     ],
     skills: ["Python", "Machine Learning", "Statistical Analysis", "Big Data", "Business Intelligence", "Dataiku DSS"],
   },
