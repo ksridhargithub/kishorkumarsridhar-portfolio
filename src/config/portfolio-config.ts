@@ -6,7 +6,6 @@ import { PortfolioConfig } from './types';
 export const portfolioConfig: PortfolioConfig = {
   personalInfo: {
     name: "Kishor Kumar Sridhar",
-    shortName: "Kishor",
     title: "Data Scientist | Machine Learning | Business Intelligence",
     description: "Data Science",
     email: "kishorkumarsridhar@gmail.com",

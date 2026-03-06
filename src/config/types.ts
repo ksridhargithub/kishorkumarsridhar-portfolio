@@ -1,7 +1,7 @@
 
 export interface PersonalInfo {
   name: string;
-  shortName: string;
+  shortName?: string;
   title: string;
   description: string;
   email: string;
