@@ -1,0 +1,120 @@
+--- Page 1 ---
+Kishor Kumar Sridhar 
+1133 11th St App 204, West Des Moines, IA – 50265 | 5157087091 | kishorkumarsridhar@gmail.com | LinkedIn | Portfolio 
+PROFESSIONAL SUMMARY 
+Data Scientist with 6+ years of industry experience in data science, data analytics, product management, business intelligence, 
+database management and stakeholder engagement. Proven experience in implementing Machine Learning frameworks using Dataiku 
+Data Science Studio, statistical analysis, handling Big Data & presenting compelling dashboards for evidence-based decision-making. 
+EDUCATION 
+Master of Business Administration, Trine University, GPA – 3.8/4                                                                              Jan ’24 – Present 
+Master of Information Systems, Minor in Statistics (STEM), Iowa State University, GPA – 3.74/4                          Jan ’18 – Nov ’20 
+B.E. in Electrical and Electronics, Anna University, India, GPA – 7.58/10                                                                 Sept ’09 – May ’13 
+TECHNICAL SKILLS 
+Programming:          Python - Numpy, Pandas, Scikit-learn, Seaborn, nltk, XGBoost; PyTorch, Tensor Flow, R – tidyverse; Git, GenAI 
+Databases:                 MS – SQL Server, PostGres, DBT, NoSQL - MongoDB 
+BI Tools:                    Tableau, Power BI, DOMO, R Shiny, MS – Excel, Alteryx, Looker 
+Statistics:                   A/B testing, ANOVA, Chi-square, Hypothesis testing, Time series forecasting, MLE 
+Bigdata:                     Dataiku DSS, BigQuery, Databricks, AWS – Amazon SageMaker, S3, EC2, Spark MLlib, Amazon Bedrock 
+ 
+PROFESSIONAL EXPERIENCE 
+ 
+Data Scientist​ ​
+​
+​
+       RDG Planning & Design, Des Moines, IA​
+   ​
+            ​       Feb ’24 - Jun ’25  
+●​
+Analyzed project timeline data to identify patterns and developed predictive models using XGBoost to forecast project durations  
+●​
+Implemented GenAI using Amazon Bedrock to generate concise summaries of unstructured project notes from architectural designs 
+●​
+Created PowerBI visualizations to communicate insights and provided actionable recommendations to non-technical stakeholders.  
+ 
+Data Scientist – Product (Remote)​
+​
+ Buildertrend, Des Moines, IA​
+​
+            ​                   Dec ’21 – Nov ’23 
+●​
+Implemented a Random Forest model with high accuracy to predict vendor categories for enhancing group procurement efficiency 
+●​
+Facilitated A/B testing experimentation for custom cost codes, driving 25% adoption surge through chi-square & ANOVA analyses 
+●​
+Conducted Customer Survival Analysis using Kaplan-Meier & log-rank tests to identify key retention factors & targeted strategies 
+●​
+Analyzed historical data and implemented workflows in Dataiku to target appropriate builders for Builders Risk Insurance service 
+●​
+Utilized OpenAI’s text-embedding-ada-002 for NPS topic modeling, cutting issues by 15% & boosting satisfaction scores by 20% 
+●​
+Transformed data in BigQuery using DBT workflows, boosting data processing speed & accessibility for informed decision-making 
+●​
+Developed SQL queries for analytical reports and dashboards in Tableau & presented meaningful insights to business stakeholders 
+ 
+Data Analyst (Remote)​   ​
+​
+​
+  AKC Marketing, Ames, IA​
+​
+           ​                 May ’21 – Sept ’21 
+●​
+Established scalable processes to monitor and maintain data quality focused on data modeling, transformation, and ad-hoc analysis 
+ 
+Data Science Fellow (Remote)​ ​
+Data Science for Public Good Fellowship, Ames, IA​​
+                May ’20 – Aug ’20 
+●​
+Led two Data Science projects to implement comprehensive data analysis using statistical modeling and hypothesis testing. 
+●​
+Developed R Shiny dashboards to improve public awareness of Iowa’s resources on mental and physical health & education 
+●​
+Communicated data-driven insights to non-technical stakeholders using R Shiny dashboard to assess community well-being in Iowa 
+●​
+Implemented time series forecasting to estimate alcohol sales in Iowa and spatially segmented counties under high-risk alcohol use 
+ 
+Data Scientist Intern​
+​
+​
+   Iowa Department of Transportation, Ames, IA​
+​
+                  Jun ’18 – May ’20 
+●​
+Implemented predictive models using FB Prophet in Python to estimate customer wait-times for Live display on DOT website 
+●​
+Applied topic modeling (NLP) using LDA on 10,000 public feedback to identify factors governing highway maintenance in Iowa 
+●​
+Performed statistical analysis using MLlib in PySpark for identifying correlation between road crashes and weather conditions 
+●​
+Developed efficient SQL scripts for data cleansing, transformation and data modeling for ad-hoc data analysis and reporting 
+ 
+Data Analyst​ ​
+​
+​
+   ​
+Torus, Chennai, India​
+​
+            ​ ​
+                  Aug ’16 – Oct ’17 
+●​
+Automated insurance claims processing systems with integrated document management to reduce turn-around time by 30% 
+●​
+Assisted in planning and implementation of experimental design for A/B testing to improve conversion rate based on various KPIs 
+ 
+Programmer Analyst​
+​
+​
+​
+   Infosys, Chennai, India​ ​
+​
+​
+                  Feb ’14 – July ’16 
+●​
+Performed extensive data governance activities using Enablon EHS tool for a data migration project to modernize legacy systems 
+●​
+Improved database performance by reducing query execution time by 50% using advanced SQL queries and stored procedures 
+ 
+LEADERSHIP 
+Winner of the ISU Athari International Leadership Program Student of the Year 2020​
+Spring 2020 
+
+
