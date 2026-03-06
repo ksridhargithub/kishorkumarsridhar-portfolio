@@ -36,8 +36,8 @@ export const portfolioConfig: PortfolioConfig = {
     ],
     languages: [
       { name: "English", level: "Fluent" },
-      { name: "Hindi", level: "Fluent" },
       { name: "Tamil", level: "Native" },
+      { name: "Telugu", level: "Native" },
     ],
   },
 
