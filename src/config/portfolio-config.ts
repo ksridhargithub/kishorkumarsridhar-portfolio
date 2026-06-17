@@ -44,6 +44,17 @@ export const portfolioConfig: PortfolioConfig = {
   experienceInfo: [
     {
       title: "Data Scientist",
+      company: "Iowa Select Farms",
+      location: "Des Moines, IA",
+      period: "May 2026 - Present",
+      description: [
+        "Built a LightGBM regression model to forecast livestock market weight & days-to-market using farm production and feed consumption.",
+        "Applied K-Means clustering & ANOVA to segment farms by efficiency metrics, identifying underperforming operational cohorts.",
+        "Created Power BI visualizations to communicate insights and provided actionable recommendations to non-technical stakeholders."
+      ],
+    },
+    {
+      title: "Data Scientist",
       company: "RDG Planning & Design",
       location: "Des Moines, IA",
       period: "Feb 2024 - Jun 2025",
